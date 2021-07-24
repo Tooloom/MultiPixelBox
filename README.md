@@ -18,9 +18,9 @@
 ## Demonstration:
 ![MultiPixelBox](https://user-images.githubusercontent.com/57460354/126865817-4c5c3f07-1ee6-447f-a498-d85d98732451.gif)
 # Usage
-- Select a folder that contains an images to resize
-- Select a folder to copy resized images into
-- Select scale value form 1 to 100
+- Select a `folder` that contains an images to resize
+- Select a `folder` to copy resized images into
+- Select `scale value` form `1` to `100`
 
 # Author
 Made by [Me](https://github.com/Tooloom)<br>
