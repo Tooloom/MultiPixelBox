@@ -6,7 +6,8 @@
 - It must be useful if you have a tiny pixel-arts, which need to print or something else...
 - Image quality will not change
 
-## Used language: Python with Qt Designer
+## Used language:
+- Python with Qt Designer
 ## Used libraries:
 - Pillow
 - PyQt5
