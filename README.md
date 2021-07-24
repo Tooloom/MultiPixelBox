@@ -7,13 +7,13 @@
 - Image quality will not change
 
 ## Used language:
-- Python with Qt Designer
+- `Python` with `Qt Designer`
 ## Used libraries:
-- Pillow
-- PyQt5
-- numpy
-- pyinstaller (to create exe file)
-- os, sys, time (standard ones)
+- `Pillow`
+- `PyQt5`
+- `numpy`
+- `pyinstaller` (to create `exe` file)
+- `os`, `sys`, `time` (standard ones)
 
 ## Demonstration:
 ![MultiPixelBox](https://user-images.githubusercontent.com/57460354/126865817-4c5c3f07-1ee6-447f-a498-d85d98732451.gif)
