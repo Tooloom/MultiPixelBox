@@ -1,5 +1,5 @@
 # MultiPixelBox
-![GitHub tag (latest SemVer)](https://img.shields.io/github/v/tag/Tooloom/MultiPixelBox?color=%252300b359%26&label=version&style=flat-square)
+![GitHub tag (latest SemVer)](https://img.shields.io/github/v/tag/Tooloom/MultiPixelBox?color=%2300b359&label=version&style=flat-square)
 
 # Showcase
 - This program created to multiply size of image pixels
