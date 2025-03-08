@@ -107,7 +107,7 @@ color: rgb(255, 255, 255);</string>
         </font>
        </property>
        <property name="text">
-        <string>Select a folder that contains an images to resize</string>
+        <string>Select a folder that contains images to resize</string>
        </property>
       </widget>
      </item>
@@ -202,7 +202,7 @@ color: rgb(255, 255, 255);</string>
         </font>
        </property>
        <property name="text">
-        <string>Scale an images by...                 range: [1, 100]</string>
+        <string>Scale images by...                 range: [1, 100]</string>
        </property>
       </widget>
      </item>
